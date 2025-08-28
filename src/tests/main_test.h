@@ -1,0 +1,23 @@
+#include "../s21_string.h"
+
+int main_strlen(void);
+int main_memchr(void);
+int main_memcpy(void);
+int main_memset(void);
+int main_memcmp(void);
+int main_strchr(void);
+int main_strcspn(void);
+int main_strerror(void);
+int main_strpbrk(void);
+int main_strrchr(void);
+int main_strstr(void);
+int main_strtok(void);
+int main_to_lower(void);
+int main_to_upper(void);
+int main_trim(void);
+int main_sscanf(void);
+int main_sprintf(void);
+int main_strncpy(void);
+int main_strncmp(void);
+int main_strncat(void);
+int main_insert(void);
